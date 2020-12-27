@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lucas N. Santos</h1>
 <h3 align="center">Senior Software Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lucasnsantoos" alt="lucasnsantoos" /> </p>
-
 - 🔭 I’m currently working on **PROTEGE SIP v5**
 
 - 🌱 I’m currently learning **Data Engineering**
